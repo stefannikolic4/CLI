@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.pdb
+
+# Build output
+x64/
+Debug/
+Release/
+[Bb]in/
+[Oo]bj/
+
+# Generated output files
+test/out.txt
